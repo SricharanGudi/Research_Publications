@@ -1,4 +1,4 @@
 # Research_Reports
 Research Publications
 
-"Forecasting Stock Market Predictions using Machine Learning Algorithms."(FSMPMLA) 
+"Forecasting Stock Market Trends using Machine Learning Algorithms."(FSMTMLA).  
